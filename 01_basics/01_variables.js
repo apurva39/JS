@@ -6,6 +6,11 @@ accountCity = "Dumka"
 
 // accountId = 3     cannot change or assign new value to a const variable
 
+/* 
+prefer not to use var
+bacause issue in block space and functional space
+*/
+
 accountEmail = "apanand101@gmail.com"
 accountPassword = "12133121"
 accountCity = "Deoghar"
