@@ -12,11 +12,15 @@ ture =>1, false => 0
 
 */
 
+
+
 let score = 1
 
 let valueInBoolean = Boolean(score)
 console.log(valueInBoolean)
 console.log(typeof valueInBoolean);
+
+
 
 
 let number = "1112"
