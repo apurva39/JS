@@ -1,0 +1,16 @@
+const myObject = {
+    "cpp": "C++",
+    "JS": "JAVA Script",
+    "Py": "Python",
+    "Rb": "Rubby"
+}
+
+for (const key in myObject) {
+    console.log(`${key} for ${myObject[key]}`);
+}
+
+
+const arr = ["fdf", "dfhf", "shdhs"]
+for (const key in arr) {
+    console.log(arr[key]);
+}
